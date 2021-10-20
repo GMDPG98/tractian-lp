@@ -19,3 +19,5 @@ On the fourth section of the LP i chose to show some specifications and an image
 On the another section i chose more numbers and characteristcs that made your product a better choice for indutry and clients.
 
 On two final sections i chose to show the success cases of clients and a final form where the visitors could be in contact and ask for more informations or buy your products and services for their company.
+
+This is a simple but good design, i didn't added the js that i was going to add because i'm still learning and running out of time now, but this design could be improved and is responsive made with CSS Flexbox and some Grid layout with hand made style.
