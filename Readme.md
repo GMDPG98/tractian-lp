@@ -1,4 +1,4 @@
-#Tractian Landing Page Project
+###Tractian Landing Page Project
 
 I created this project only using HTML5 and CSS Flexbox for the design, all made by hand. We can see that i used many structures of the main website but refactored in my own vision of what is truly important on a Landing Page.
 
